@@ -42,11 +42,11 @@ CM:  [[123  , 6]
  [  4 , 57]]
 
 **Gaussian Naive Bayes is computationally efficient and suitable for real-time predictions
-Given these advantages, Gaussian Naive Bayes was chosen for deployment in the Streamlit application.**
+given these advantages, Gaussian Naive Bayes was chosen for deployment in the Streamlit application.**
 
 ## How to Run the Project 
 1. Clone the repository:
-git clone https://github.com/<your-username>/<repo-name>.git
+git clone https://github.com/<your-username>/<repo-name>.git <br>
 cd <repo-name>
 2. Install required libraries: pip install streamlit, pandas, numpy, scikit-learn and etc.
 3. Run the Streamlit app: streamlit run app.py
