@@ -46,9 +46,10 @@ given these advantages, Gaussian Naive Bayes was chosen for deployment in the St
 
 ## How to Run the Project 
 1. Clone the repository:
-git clone https://github.com/<your-username>/<repo-name>.git <br>
+git clone https://github.com/<your-username>/<repo-name>.git
+ <br>
 cd <repo-name>
-2. Install required libraries: pip install streamlit, pandas, numpy, scikit-learn and etc.
-3. Run the Streamlit app: streamlit run app.py
+3. Install required libraries: pip install streamlit, pandas, numpy, scikit-learn and etc.
+4. Run the Streamlit app: streamlit run app.py
 The application will open in your browser at:
 http://localhost:8501
