@@ -46,8 +46,7 @@ given these advantages, Gaussian Naive Bayes was chosen for deployment in the St
 
 ## How to Run the Project 
 1. Clone the repository:
-git clone https://github.com/sonakshigupta29/CrediSure---Loan-Approval-System.git <br>
-cd CrediSure---Loan-Approval-System
+git clone https://github.com/sonakshigupta29/CrediSure---Loan-Approval-System.git 
 3. Install required libraries: pip install streamlit, pandas, numpy, scikit-learn and etc.
 4. Run the Streamlit app: streamlit run app.py
 The application will open in your browser at:
