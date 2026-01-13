@@ -1,8 +1,8 @@
 # CrediSure - Loan Approval System
 
 Build an end to end **Supervised ML Pipeline** using **kNN, Logistic Regression and Naive Bayes** to predict loan approval.
-Implemented **Binary Classification** along with **EDA, Feature Engineering, Model Evaluation ( Precision, Recall and F1 Scores)**.
-Also deployed by creating simple web interface by **Streamlit**.
+Implemented **Binary Classification** along with **EDA, Feature Engineering, Model Evaluation ( Precision, Recall and F1 Scores)**. 
+Also deployed by creating simple web interface by **Streamlit**. <br>
 CrediSure is an **machine learning project** that predicts whether a loan application should be approved based on applicant financial and demographic details.
 
 ## Features
@@ -38,8 +38,8 @@ Precision:  90.4 %
 Recall: 93.4 %
 F1 score:  91.9 %
 Accuracy:  94.7 %
-CM:  [[123   6]
- [  4  57]]
+CM:  [[123  , 6]
+ [  4 , 57]]
 
 **Gaussian Naive Bayes is computationally efficient and suitable for real-time predictions
 Given these advantages, Gaussian Naive Bayes was chosen for deployment in the Streamlit application.**
